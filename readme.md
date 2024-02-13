@@ -1,39 +1,38 @@
 Modul Praktikum: Pemrograman Berbasis Fungsi
 
-Tujuan:
+**Tujuan**:
 Modul ini bertujuan untuk membantu mahasiswa memahami konsep dasar pemrograman berbasis fungsi dan menerapkannya dalam praktikum menggunakan bahasa pemrograman tertentu, seperti Python.
 
-Materi:
+**Materi**:
 
-Pengenalan Fungsi:
-
+**Pengenalan Fungsi:**
 Konsep dasar fungsi dalam pemrograman.
 Penggunaan fungsi untuk mengelompokkan dan memisahkan kode.
 Manfaat penggunaan fungsi dalam pengembangan perangkat lunak.
 Parameter dan Argumen:
 
-Penggunaan parameter untuk membuat fungsi lebih fleksibel.
+**Penggunaan parameter untuk membuat fungsi lebih fleksibel.**
 Argumen posisi dan argumen kata kunci.
 Menangani jumlah argumen yang variatif.
-Nilai Kembalian:
 
+**Nilai Kembalian:**
 Mengembalikan nilai dari sebuah fungsi.
 Penggunaan nilai kembalian untuk menghasilkan output yang berguna.
-Rekursi:
 
+**Rekursi:**
 Pengenalan konsep rekursi.
 Implementasi rekursi dalam pembuatan fungsi.
 Keuntungan dan kerugian penggunaan rekursi.
-Fungsi dalam Berbagai Konteks:
 
+**Fungsi dalam Berbagai Konteks:**
 Penggunaan fungsi dalam struktur kontrol seperti if-else, loop, dan lain-lain.
 Menulis fungsi yang memanipulasi struktur data seperti list, tuple, dan dictionary.
-Modularitas dan Pembagian Kode:
 
+**Modularitas dan Pembagian Kode:**
 Prinsip pembagian kode menjadi modul-modul terpisah.
 Keuntungan dan praktik terbaik dalam pembagian kode.
-Cara Fork Repository:
 
+**Cara Fork Repository (Untuk Tugas Kelompok):**
 Buka Repositori:
 
 Kunjungi repositori yang ingin Anda fork di platform seperti GitHub.
